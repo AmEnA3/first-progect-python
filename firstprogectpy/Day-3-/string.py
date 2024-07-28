@@ -1,3 +1,3 @@
 name = "Vandal"
 Welcom = "Hello, " + name 
-print(Welcom)  # Output: Hello, Alice
+print(Welcom)  # Output: Hello, Vandal
